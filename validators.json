@@ -1,13 +1,57 @@
 [
-  "3VEUEOMZ-9wubLeXsqtwdbA75Iynvnjp-OFuOjWoXio",
-  "0mVxeuefIp5D-n5XAobn7ru4hMt2Mzz0ZdD5YoRonrI",
-  "DCBMpV0OBONQNYCeB7QFQRuIy5eJe1IXNBei5C8IHJI",
-  "1KwM49-JBgkEupVVZ1D_Vsx3wF6XO05v058zUJ4bjP4",
-  "jZdmzKho0L3SUlSav0DuFHYOD6ASVyzJFwdOvv8H-ek",
-  "U2cDeAtLwd1LKM-hSl5SVYzbaUfCyWjSrbCjLti1Pds",
-  "5U0ttfYShJbvi0oclQ4Bdua7BVA8nhKToKKFQ8lKG-o",
-  "XNTUVW5hgk-GD37XW5-ECfwt-eAJdsMResa1KVSWFsg",
-  "Cz_hGi0NcqoUGZqWnjnIoW9HSrKgEsuIuA4Zd8TtJYE",
-  "1EVctTiVVclcwPubV4g7G9psEoUJ1oiX4K1N7QYym7k",
-  "8qAB-V3I5V9o7VspdI8LKhxIm3W3ykD60LObeIyvack"
-]
+    {
+        "arweave": "3VEUEOMZ-9wubLeXsqtwdbA75Iynvnjp-OFuOjWoXio",
+        "validator": "0x4bC16662A2cE381E7bb54Dc577c05619C5E67526",
+        "name": "deBridge"
+    },
+    {
+        "arweave": "0mVxeuefIp5D-n5XAobn7ru4hMt2Mzz0ZdD5YoRonrI",
+        "validator": "0xebec9bc53f9C65f69DB8591B9f240BbCDb563c54",
+        "name": "Ezil"
+    },
+    {
+        "arweave": "DCBMpV0OBONQNYCeB7QFQRuIy5eJe1IXNBei5C8IHJI",
+        "validator": "0xf27Af436A6F2d9C64B4CA40a483eC46acDc33fe8",
+        "name": "BwareLabs"
+    },
+    {
+        "arweave": "1KwM49-JBgkEupVVZ1D_Vsx3wF6XO05v058zUJ4bjP4",
+        "validator": "0x59CE95b8955F0E7Be128d5Af77161B36f6084214",
+        "name": "Stakin"
+    },
+    {
+        "arweave": "jZdmzKho0L3SUlSav0DuFHYOD6ASVyzJFwdOvv8H-ek",
+        "validator": "0x1c0720B124e7251e881a0fbCfe259d085C59f205",
+        "name": "Nodes.Guru"
+    },
+    {
+        "arweave": "U2cDeAtLwd1LKM-hSl5SVYzbaUfCyWjSrbCjLti1Pds",
+        "validator": "0x83f81E7f9E284AAFFEDED797008663595f7342bF",
+        "name": "Stake DAO"
+    },
+    {
+        "arweave": "5U0ttfYShJbvi0oclQ4Bdua7BVA8nhKToKKFQ8lKG-o",
+        "validator": "0x4CA2191cDE585d65EB6AFC09D23D60b8A0AB677D",
+        "name": "AUDIT.one"
+    },
+    {
+        "arweave": "XNTUVW5hgk-GD37XW5-ECfwt-eAJdsMResa1KVSWFsg",
+        "validator": "0x6436BBcA322b8cD0c56d8b9aD7837b13960dA426",
+        "name": ""
+    },
+    {
+        "arweave": "Cz_hGi0NcqoUGZqWnjnIoW9HSrKgEsuIuA4Zd8TtJYE",
+        "validator": "0xbCF516826eD7F3b0E487C7ca6A87b3b4EccDD4DC",
+        "name": "Easy2Stake"
+    },
+    {
+        "arweave": "1EVctTiVVclcwPubV4g7G9psEoUJ1oiX4K1N7QYym7k",
+        "validator": "0x874f46124C1DAaD4749B94f82eD142754826240E",
+        "name": "WolfEdge"
+    },
+    {
+        "arweave": "8qAB-V3I5V9o7VspdI8LKhxIm3W3ykD60LObeIyvack",
+        "validator": "0xDD523FD4DebcF0dB6f0B2c2D30D075CaaeE023e0",
+        "name": "Node Guardians"
+    }
+  ]
